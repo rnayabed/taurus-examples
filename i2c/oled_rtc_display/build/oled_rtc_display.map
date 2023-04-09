@@ -1,0 +1,730 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(i2c.o)
+                              build/./demo.o (i2c_start)
+/home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(stdlib.o)
+                              build/./demo.o (printf)
+/home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(rawfloat.o)
+                              /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(stdlib.o) (ecvtbuf)
+/home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(crt.o)
+                              (_start)
+/home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(debug_uart.o)
+                              /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(stdlib.o) (tx_uart)
+/home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(interrupt.o)
+                              /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(crt.o) (interrupt_handler)
+/home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-memcpy.o)
+                              /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(stdlib.o) (memcpy)
+/home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-memset.o)
+                              build/./demo.o (memset)
+/home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-s_modf.o)
+                              /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(rawfloat.o) (modf)
+/home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-strcat.o)
+                              build/./demo.o (strcat)
+/home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-strcpy.o)
+                              /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-strcat.o) (strcpy)
+/home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-strlen.o)
+                              build/./demo.o (strlen)
+/home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-strnlen.o)
+                              /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(stdlib.o) (strnlen)
+/home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(adddf3.o)
+                              /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(rawfloat.o) (__adddf3)
+/home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divdf3.o)
+                              /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(rawfloat.o) (__divdf3)
+/home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(eqdf2.o)
+                              /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(stdlib.o) (__eqdf2)
+/home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(gedf2.o)
+                              /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(rawfloat.o) (__gtdf2)
+/home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(ledf2.o)
+                              /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(stdlib.o) (__ltdf2)
+/home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(muldf3.o)
+                              /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(rawfloat.o) (__muldf3)
+/home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(subdf3.o)
+                              /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-s_modf.o) (__subdf3)
+/home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(fixdfsi.o)
+                              /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(rawfloat.o) (__fixdfsi)
+/home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(addsf3.o)
+                              /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(stdlib.o) (__addsf3)
+/home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divsf3.o)
+                              /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(stdlib.o) (__divsf3)
+/home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(mulsf3.o)
+                              /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(stdlib.o) (__mulsf3)
+/home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(floatsisf.o)
+                              /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(stdlib.o) (__floatsisf)
+/home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clzsi2.o)
+                              /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(adddf3.o) (__clzsi2)
+/home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clz.o)
+                              /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clzsi2.o) (__clz_tab)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 build/./demo.o
+ .data          0x0000000000000000        0x0 build/./demo.o
+ .bss           0x0000000000000000        0x0 build/./demo.o
+ .text.BcdToDec
+                0x0000000000000000       0x5c build/./demo.o
+ .text.microsecondsToCentimeters
+                0x0000000000000000       0x2c build/./demo.o
+ .text          0x0000000000000000        0x0 build/./ssd1306.o
+ .data          0x0000000000000000        0x0 build/./ssd1306.o
+ .bss           0x0000000000000000        0x0 build/./ssd1306.o
+ .sbss.i2cd     0x0000000000000000        0x4 build/./ssd1306.o
+ .text.ssd1306_invertDisplay
+                0x0000000000000000       0x4c build/./ssd1306.o
+ .text.ssd1306_startscrollright
+                0x0000000000000000       0x9c build/./ssd1306.o
+ .text.ssd1306_startscrollleft
+                0x0000000000000000       0x9c build/./ssd1306.o
+ .text.ssd1306_startscrolldiagright
+                0x0000000000000000       0xb4 build/./ssd1306.o
+ .text.ssd1306_startscrolldiagleft
+                0x0000000000000000       0xb4 build/./ssd1306.o
+ .text.ssd1306_stopscroll
+                0x0000000000000000       0x30 build/./ssd1306.o
+ .text.ssd1306_dim
+                0x0000000000000000       0x80 build/./ssd1306.o
+ .text.ssd1306_drawFastVLine
+                0x0000000000000000       0x78 build/./ssd1306.o
+ .text.ssd1306_setTextSize
+                0x0000000000000000       0x38 build/./ssd1306.o
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(i2c.o)
+ .bss           0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(i2c.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(stdlib.o)
+ .bss           0x0000000000000000       0x10 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(stdlib.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(rawfloat.o)
+ .text          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(crt.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(crt.o)
+ .bss           0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(crt.o)
+ .INTERRUPT_isr_sect_0
+                0x0000000000000000      0x108 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(crt.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(debug_uart.o)
+ .bss           0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(debug_uart.o)
+ .text          0x0000000000000000      0x298 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(interrupt.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(interrupt.o)
+ .bss           0x0000000000000000      0x100 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(interrupt.o)
+ .sbss          0x0000000000000000        0x4 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(interrupt.o)
+ .comment       0x0000000000000000       0x13 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(interrupt.o)
+ .riscv.attributes
+                0x0000000000000000       0x25 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(interrupt.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-s_modf.o)
+ .bss           0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-s_modf.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-strcat.o)
+ .bss           0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-strcat.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-strcpy.o)
+ .bss           0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-strcpy.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-strlen.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-strnlen.o)
+ .bss           0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-strnlen.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(adddf3.o)
+ .bss           0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(adddf3.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divdf3.o)
+ .bss           0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divdf3.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(eqdf2.o)
+ .bss           0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(eqdf2.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(gedf2.o)
+ .bss           0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(gedf2.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(ledf2.o)
+ .bss           0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(ledf2.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(muldf3.o)
+ .bss           0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(muldf3.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(subdf3.o)
+ .bss           0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(subdf3.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(fixdfsi.o)
+ .bss           0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(fixdfsi.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(addsf3.o)
+ .bss           0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(addsf3.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divsf3.o)
+ .bss           0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divsf3.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(mulsf3.o)
+ .bss           0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(mulsf3.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(floatsisf.o)
+ .bss           0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(floatsisf.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clzsi2.o)
+ .bss           0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clzsi2.o)
+ .text          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clz.o)
+ .data          0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clz.o)
+ .bss           0x0000000000000000        0x0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clz.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD build/./demo.o
+LOAD build/./ssd1306.o
+START GROUP
+LOAD /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a
+LOAD /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a
+LOAD /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a
+LOAD /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libm.a
+END GROUP
+                0x0000000000200000                . = 0x200000
+
+.text.init      0x0000000000200000      0x204
+ *(.text.init)
+ .text.init     0x0000000000200000      0x204 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(crt.o)
+                0x0000000000200000                _start
+                0x00000000002000e0                trap_entry
+
+.text           0x0000000000200204     0x6644
+ *(.text)
+ .text          0x0000000000200204      0x750 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(i2c.o)
+                0x0000000000200204                i2c_initialize
+                0x0000000000200344                i2c_start
+                0x00000000002004d4                i2c_configure
+                0x000000000020052c                i2c_data_write
+                0x0000000000200680                i2c_stop
+                0x0000000000200700                i2c_data_read
+                0x0000000000200844                I2C_enable_intr
+                0x00000000002008e0                I2C_intr_handler
+ .text          0x0000000000200954     0x221c /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(stdlib.o)
+                0x0000000000200954                handle_trap
+                0x0000000000200a04                exit
+                0x0000000000200a28                abort
+                0x0000000000200a58                printstr
+                0x0000000000200a8c                thread_entry
+                0x0000000000200b94                _init
+                0x0000000000200bd4                putchar
+                0x0000000000200c24                printhex
+                0x0000000000200ebc                atoi
+                0x0000000000200f40                atof
+                0x0000000000201084                _usleep
+                0x00000000002010e8                udelay
+                0x0000000000201140                usleep
+                0x000000000020119c                get_time
+                0x0000000000202998                puts
+                0x0000000000202a20                printf
+                0x0000000000202ad8                sprintf
+                0x0000000000202b4c                _sbrk
+ .text          0x0000000000202b70      0x644 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(rawfloat.o)
+                0x0000000000203034                ecvt
+                0x0000000000203094                ecvtbuf
+                0x00000000002030f4                fcvt
+                0x0000000000203154                fcvtbuf
+ .text          0x00000000002031b4      0x66c /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(debug_uart.o)
+                0x00000000002031b4                init_uart
+                0x000000000020321c                tx_uart
+                0x0000000000203284                rx_uart
+                0x00000000002032d8                get_decimal
+                0x00000000002034f0                get_long_int
+                0x00000000002036a4                get_hex
+ .text          0x0000000000203820      0x11c /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-memcpy.o)
+                0x0000000000203820                memcpy
+ .text          0x000000000020393c       0xdc /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-memset.o)
+                0x000000000020393c                memset
+ .text          0x0000000000203a18       0xfc /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-s_modf.o)
+                0x0000000000203a18                modf
+ .text          0x0000000000203b14       0x88 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-strcat.o)
+                0x0000000000203b14                strcat
+ .text          0x0000000000203b9c       0xb0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-strcpy.o)
+                0x0000000000203b9c                strcpy
+ .text          0x0000000000203c4c       0x8c /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-strlen.o)
+                0x0000000000203c4c                strlen
+ .text          0x0000000000203cd8       0x38 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-strnlen.o)
+                0x0000000000203cd8                strnlen
+ .text          0x0000000000203d10      0x7d8 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(adddf3.o)
+                0x0000000000203d10                __adddf3
+ .text          0x00000000002044e8      0x6e4 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divdf3.o)
+                0x00000000002044e8                __divdf3
+ .text          0x0000000000204bcc       0x8c /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(eqdf2.o)
+                0x0000000000204bcc                __eqdf2
+                0x0000000000204bcc                __nedf2
+ .text          0x0000000000204c58       0xe4 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(gedf2.o)
+                0x0000000000204c58                __gtdf2
+                0x0000000000204c58                __gedf2
+ .text          0x0000000000204d3c       0xe4 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(ledf2.o)
+                0x0000000000204d3c                __ltdf2
+                0x0000000000204d3c                __ledf2
+ .text          0x0000000000204e20      0x5cc /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(muldf3.o)
+                0x0000000000204e20                __muldf3
+ .text          0x00000000002053ec      0x7ec /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(subdf3.o)
+                0x00000000002053ec                __subdf3
+ .text          0x0000000000205bd8       0x80 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(fixdfsi.o)
+                0x0000000000205bd8                __fixdfsi
+ .text          0x0000000000205c58      0x45c /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(addsf3.o)
+                0x0000000000205c58                __addsf3
+ .text          0x00000000002060b4      0x338 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divsf3.o)
+                0x00000000002060b4                __divsf3
+ .text          0x00000000002063ec      0x308 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(mulsf3.o)
+                0x00000000002063ec                __mulsf3
+ .text          0x00000000002066f4      0x108 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(floatsisf.o)
+                0x00000000002066f4                __floatsisf
+ .text          0x00000000002067fc       0x4c /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clzsi2.o)
+                0x00000000002067fc                __clzsi2
+
+.text.getRtc    0x0000000000206848      0x3c0
+ .text.getRtc   0x0000000000206848      0x3c0 build/./demo.o
+                0x0000000000206848                getRtc
+
+.text.i2c_set_rtc_DS3231
+                0x0000000000206c08      0x1c8
+ .text.i2c_set_rtc_DS3231
+                0x0000000000206c08      0x1c8 build/./demo.o
+                0x0000000000206c08                i2c_set_rtc_DS3231
+
+.text.i2c_get_rtc_DS3231
+                0x0000000000206dd0      0x18c
+ .text.i2c_get_rtc_DS3231
+                0x0000000000206dd0      0x18c build/./demo.o
+                0x0000000000206dd0                i2c_get_rtc_DS3231
+
+.text.DecToBcd  0x0000000000206f5c       0x54
+ .text.DecToBcd
+                0x0000000000206f5c       0x54 build/./demo.o
+                0x0000000000206f5c                DecToBcd
+
+.text.main      0x0000000000206fb0       0xb8
+ .text.main     0x0000000000206fb0       0xb8 build/./demo.o
+                0x0000000000206fb0                main
+
+.text.fill_logo
+                0x0000000000207068       0x68
+ .text.fill_logo
+                0x0000000000207068       0x68 build/./ssd1306.o
+                0x0000000000207068                fill_logo
+
+.text.ssd1306_drawPixel
+                0x00000000002070d0      0x208
+ .text.ssd1306_drawPixel
+                0x00000000002070d0      0x208 build/./ssd1306.o
+                0x00000000002070d0                ssd1306_drawPixel
+
+.text.ssd1306_begin
+                0x00000000002072d8      0x150
+ .text.ssd1306_begin
+                0x00000000002072d8      0x150 build/./ssd1306.o
+                0x00000000002072d8                ssd1306_begin
+
+.text.ssd1306_command
+                0x0000000000207428       0x4c
+ .text.ssd1306_command
+                0x0000000000207428       0x4c build/./ssd1306.o
+                0x0000000000207428                ssd1306_command
+
+.text.i2c_WriteByte
+                0x0000000000207474       0xe4
+ .text.i2c_WriteByte
+                0x0000000000207474       0xe4 build/./ssd1306.o
+                0x0000000000207474                i2c_WriteByte
+
+.text.ssd1306_display
+                0x0000000000207558       0xa0
+ .text.ssd1306_display
+                0x0000000000207558       0xa0 build/./ssd1306.o
+                0x0000000000207558                ssd1306_display
+
+.text.ssd1306_clearDisplay
+                0x00000000002075f8       0x48
+ .text.ssd1306_clearDisplay
+                0x00000000002075f8       0x48 build/./ssd1306.o
+                0x00000000002075f8                ssd1306_clearDisplay
+
+.text.ssd1306_drawFastHLineInternal
+                0x0000000000207640      0x1d0
+ .text.ssd1306_drawFastHLineInternal
+                0x0000000000207640      0x1d0 build/./ssd1306.o
+                0x0000000000207640                ssd1306_drawFastHLineInternal
+
+.text.ssd1306_drawFastVLineInternal
+                0x0000000000207810      0x390
+ .text.ssd1306_drawFastVLineInternal
+                0x0000000000207810      0x390 build/./ssd1306.o
+                0x0000000000207810                ssd1306_drawFastVLineInternal
+
+.text.ssd1306_drawFastHLine
+                0x0000000000207ba0       0x70
+ .text.ssd1306_drawFastHLine
+                0x0000000000207ba0       0x70 build/./ssd1306.o
+                0x0000000000207ba0                ssd1306_drawFastHLine
+
+.text.ssd1306_fillRect
+                0x0000000000207c10       0xe0
+ .text.ssd1306_fillRect
+                0x0000000000207c10       0xe0 build/./ssd1306.o
+                0x0000000000207c10                ssd1306_fillRect
+
+.text.ssd1306_write
+                0x0000000000207cf0      0x13c
+ .text.ssd1306_write
+                0x0000000000207cf0      0x13c build/./ssd1306.o
+                0x0000000000207cf0                ssd1306_write
+
+.text.ssd1306_drawString
+                0x0000000000207e2c       0x74
+ .text.ssd1306_drawString
+                0x0000000000207e2c       0x74 build/./ssd1306.o
+                0x0000000000207e2c                ssd1306_drawString
+
+.text.ssd1306_drawChar
+                0x0000000000207ea0      0x1a4
+ .text.ssd1306_drawChar
+                0x0000000000207ea0      0x1a4 build/./ssd1306.o
+                0x0000000000207ea0                ssd1306_drawChar
+
+.rodata         0x0000000000208048      0x610
+ .rodata        0x0000000000208048      0x1d9 build/./demo.o
+ *fill*         0x0000000000208221        0x3 
+ .rodata        0x0000000000208224       0x23 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(i2c.o)
+ *fill*         0x0000000000208247        0x1 
+ .rodata        0x0000000000208248      0x204 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(stdlib.o)
+ *fill*         0x000000000020844c        0x4 
+ .rodata        0x0000000000208450       0x18 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(rawfloat.o)
+ .rodata        0x0000000000208468       0x3c /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divdf3.o)
+ .rodata        0x00000000002084a4       0x3c /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(muldf3.o)
+ .rodata        0x00000000002084e0       0x3c /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divsf3.o)
+ .rodata        0x000000000020851c       0x3c /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(mulsf3.o)
+ .rodata        0x0000000000208558      0x100 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clz.o)
+                0x0000000000208558                __clz_tab
+
+.rodata.getRtc  0x0000000000208658       0x20
+ .rodata.getRtc
+                0x0000000000208658       0x20 build/./demo.o
+
+.rodata.font    0x0000000000208678      0x4fb
+ .rodata.font   0x0000000000208678      0x4fb build/./ssd1306.o
+
+.rela.dyn       0x0000000000208b74       0x24
+ .rela.got      0x0000000000208b74       0x24 build/./demo.o
+ .rela.text     0x0000000000208b98        0x0 build/./demo.o
+ .rela.text.init
+                0x0000000000208b98        0x0 build/./demo.o
+
+.data
+ *(.data)
+
+.got            0x0000000000208b98       0x10
+ .got           0x0000000000208b98       0x10 build/./demo.o
+                0x0000000000208b98                _GLOBAL_OFFSET_TABLE_
+
+.got.plt        0x0000000000208ba8        0x8
+ .got.plt       0x0000000000208ba8        0x8 build/./demo.o
+
+.data.buffer_logo
+                0x0000000000208bb0      0x400
+ .data.buffer_logo
+                0x0000000000208bb0      0x400 build/./ssd1306.o
+                0x0000000000208bb0                buffer_logo
+
+.data.premask.1
+                0x0000000000208fb0       0x20
+ .data.premask.1
+                0x0000000000208fb0       0x20 build/./ssd1306.o
+
+.data.postmask.0
+                0x0000000000208fd0       0x20
+ .data.postmask.0
+                0x0000000000208fd0       0x20 build/./ssd1306.o
+
+.sdata          0x0000000000208ff0       0x10
+                0x00000000002097f0                __global_pointer$ = (. + 0x800)
+ *(.srodata.cst16)
+ *(.srodata.cst8)
+ *(.srodata.cst4)
+ *(.srodata.cst2)
+ *(.srodata*)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata.textsize
+                0x0000000000208ff0        0x4 build/./ssd1306.o
+                0x0000000000208ff0                textsize
+ .sdata.wrap    0x0000000000208ff4        0x4 build/./ssd1306.o
+                0x0000000000208ff4                wrap
+ .sdata         0x0000000000208ff8        0x8 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(stdlib.o)
+                0x0000000000209000                _bss_start = .
+
+.sbss           0x0000000000209000       0x28
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss.TimeDate.1
+                0x0000000000209000        0x7 build/./demo.o
+ *fill*         0x0000000000209007        0x1 
+ .sbss.TimeDate.0
+                0x0000000000209008        0x7 build/./demo.o
+ *fill*         0x000000000020900f        0x1 
+ .sbss.cursor_y
+                0x0000000000209010        0x4 build/./ssd1306.o
+                0x0000000000209010                cursor_y
+ .sbss.cursor_x
+                0x0000000000209014        0x4 build/./ssd1306.o
+                0x0000000000209014                cursor_x
+ .sbss._vccstate
+                0x0000000000209018        0x4 build/./ssd1306.o
+                0x0000000000209018                _vccstate
+ .sbss          0x000000000020901c        0x8 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(i2c.o)
+                0x000000000020901c                SYS_CLK
+                0x0000000000209020                I2C_CLK
+ .sbss          0x0000000000209024        0x4 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(stdlib.o)
+                0x0000000000209024                loop_count
+ *(.scommon)
+
+.bss            0x0000000000209028       0x50
+ *(.bss)
+ .bss           0x0000000000209028       0x50 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(rawfloat.o)
+                0x0000000000209078                _bss_end = .
+
+.bss.gRTCtime   0x0000000000209078       0x10
+ .bss.gRTCtime  0x0000000000209078       0x10 build/./demo.o
+                0x0000000000209078                gRTCtime
+
+.bss.buffer     0x0000000000209088      0x400
+ .bss.buffer    0x0000000000209088      0x400 build/./ssd1306.o
+                0x0000000000209088                buffer
+
+.tdata          0x0000000000209488        0x0
+                0x0000000000209488                _tls_data = .
+ *(.tdata.begin)
+ .tdata.begin   0x0000000000209488        0x0 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(crt.o)
+ *(.tdata)
+ *(.tdata.end)
+ .tdata.end     0x0000000000209488        0x0 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(crt.o)
+
+.tbss           0x0000000000209488        0x0
+ *(.tbss)
+ *(.tbss.end)
+ .tbss.end      0x0000000000209488        0x0 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(crt.o)
+                0x0000000000209488                _end = .
+OUTPUT(build/oled_rtc_display.elf elf32-littleriscv)
+
+.comment        0x0000000000000000       0x12
+ .comment       0x0000000000000000       0x12 build/./demo.o
+                                         0x13 (size before relaxing)
+ .comment       0x0000000000000012       0x13 build/./ssd1306.o
+ .comment       0x0000000000000012       0x13 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(i2c.o)
+ .comment       0x0000000000000012       0x13 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(stdlib.o)
+ .comment       0x0000000000000012       0x13 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(rawfloat.o)
+ .comment       0x0000000000000012       0x13 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(debug_uart.o)
+ .comment       0x0000000000000012       0x13 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-memcpy.o)
+ .comment       0x0000000000000012       0x13 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-s_modf.o)
+ .comment       0x0000000000000012       0x13 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-strcat.o)
+ .comment       0x0000000000000012       0x13 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-strcpy.o)
+ .comment       0x0000000000000012       0x13 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-strlen.o)
+ .comment       0x0000000000000012       0x13 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-strnlen.o)
+ .comment       0x0000000000000012       0x13 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(adddf3.o)
+ .comment       0x0000000000000012       0x13 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divdf3.o)
+ .comment       0x0000000000000012       0x13 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(eqdf2.o)
+ .comment       0x0000000000000012       0x13 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(gedf2.o)
+ .comment       0x0000000000000012       0x13 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(ledf2.o)
+ .comment       0x0000000000000012       0x13 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(muldf3.o)
+ .comment       0x0000000000000012       0x13 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(subdf3.o)
+ .comment       0x0000000000000012       0x13 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(fixdfsi.o)
+ .comment       0x0000000000000012       0x13 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(addsf3.o)
+ .comment       0x0000000000000012       0x13 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divsf3.o)
+ .comment       0x0000000000000012       0x13 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(mulsf3.o)
+ .comment       0x0000000000000012       0x13 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(floatsisf.o)
+ .comment       0x0000000000000012       0x13 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clzsi2.o)
+ .comment       0x0000000000000012       0x13 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clz.o)
+
+.riscv.attributes
+                0x0000000000000000       0x25
+ .riscv.attributes
+                0x0000000000000000       0x21 build/./demo.o
+ .riscv.attributes
+                0x0000000000000021       0x21 build/./ssd1306.o
+ .riscv.attributes
+                0x0000000000000042       0x21 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(i2c.o)
+ .riscv.attributes
+                0x0000000000000063       0x25 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(stdlib.o)
+ .riscv.attributes
+                0x0000000000000088       0x21 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(rawfloat.o)
+ .riscv.attributes
+                0x00000000000000a9       0x23 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(crt.o)
+ .riscv.attributes
+                0x00000000000000cc       0x21 /home/rnayabed/code/cdac-vega/vega-sdk/bsp/libvega.a(debug_uart.o)
+ .riscv.attributes
+                0x00000000000000ed       0x21 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-memcpy.o)
+ .riscv.attributes
+                0x000000000000010e       0x1f /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-memset.o)
+ .riscv.attributes
+                0x000000000000012d       0x21 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-s_modf.o)
+ .riscv.attributes
+                0x000000000000014e       0x21 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-strcat.o)
+ .riscv.attributes
+                0x000000000000016f       0x21 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-strcpy.o)
+ .riscv.attributes
+                0x0000000000000190       0x21 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-strlen.o)
+ .riscv.attributes
+                0x00000000000001b1       0x21 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/../../../../riscv64-vega-elf/lib/rv32im/ilp32/libc.a(lib_a-strnlen.o)
+ .riscv.attributes
+                0x00000000000001d2       0x21 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(adddf3.o)
+ .riscv.attributes
+                0x00000000000001f3       0x21 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divdf3.o)
+ .riscv.attributes
+                0x0000000000000214       0x21 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(eqdf2.o)
+ .riscv.attributes
+                0x0000000000000235       0x21 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(gedf2.o)
+ .riscv.attributes
+                0x0000000000000256       0x21 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(ledf2.o)
+ .riscv.attributes
+                0x0000000000000277       0x21 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(muldf3.o)
+ .riscv.attributes
+                0x0000000000000298       0x21 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(subdf3.o)
+ .riscv.attributes
+                0x00000000000002b9       0x21 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(fixdfsi.o)
+ .riscv.attributes
+                0x00000000000002da       0x21 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(addsf3.o)
+ .riscv.attributes
+                0x00000000000002fb       0x21 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divsf3.o)
+ .riscv.attributes
+                0x000000000000031c       0x21 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(mulsf3.o)
+ .riscv.attributes
+                0x000000000000033d       0x21 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(floatsisf.o)
+ .riscv.attributes
+                0x000000000000035e       0x21 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clzsi2.o)
+ .riscv.attributes
+                0x000000000000037f       0x21 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clz.o)
+
+.debug_info     0x0000000000000000     0x313e
+ .debug_info    0x0000000000000000      0x581 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(adddf3.o)
+ .debug_info    0x0000000000000581      0x72a /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divdf3.o)
+ .debug_info    0x0000000000000cab      0x255 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(eqdf2.o)
+ .debug_info    0x0000000000000f00      0x253 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(gedf2.o)
+ .debug_info    0x0000000000001153      0x253 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(ledf2.o)
+ .debug_info    0x00000000000013a6      0x766 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(muldf3.o)
+ .debug_info    0x0000000000001b0c      0x581 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(subdf3.o)
+ .debug_info    0x000000000000208d      0x1e7 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(fixdfsi.o)
+ .debug_info    0x0000000000002274      0x33c /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(addsf3.o)
+ .debug_info    0x00000000000025b0      0x3a3 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divsf3.o)
+ .debug_info    0x0000000000002953      0x394 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(mulsf3.o)
+ .debug_info    0x0000000000002ce7      0x23c /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(floatsisf.o)
+ .debug_info    0x0000000000002f23      0x144 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clzsi2.o)
+ .debug_info    0x0000000000003067       0xd7 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clz.o)
+
+.debug_abbrev   0x0000000000000000     0x1214
+ .debug_abbrev  0x0000000000000000      0x173 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(adddf3.o)
+ .debug_abbrev  0x0000000000000173      0x173 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divdf3.o)
+ .debug_abbrev  0x00000000000002e6      0x14b /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(eqdf2.o)
+ .debug_abbrev  0x0000000000000431      0x15e /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(gedf2.o)
+ .debug_abbrev  0x000000000000058f      0x15e /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(ledf2.o)
+ .debug_abbrev  0x00000000000006ed      0x185 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(muldf3.o)
+ .debug_abbrev  0x0000000000000872      0x173 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(subdf3.o)
+ .debug_abbrev  0x00000000000009e5      0x15e /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(fixdfsi.o)
+ .debug_abbrev  0x0000000000000b43      0x161 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(addsf3.o)
+ .debug_abbrev  0x0000000000000ca4      0x14c /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divsf3.o)
+ .debug_abbrev  0x0000000000000df0      0x166 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(mulsf3.o)
+ .debug_abbrev  0x0000000000000f56      0x184 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(floatsisf.o)
+ .debug_abbrev  0x00000000000010da       0xca /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x00000000000011a4       0x70 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clz.o)
+
+.debug_loc      0x0000000000000000     0x61e8
+ .debug_loc     0x0000000000000000     0x11ec /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(adddf3.o)
+ .debug_loc     0x00000000000011ec     0x1494 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divdf3.o)
+ .debug_loc     0x0000000000002680       0xa4 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(eqdf2.o)
+ .debug_loc     0x0000000000002724      0x135 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(gedf2.o)
+ .debug_loc     0x0000000000002859      0x135 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(ledf2.o)
+ .debug_loc     0x000000000000298e      0xd56 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(muldf3.o)
+ .debug_loc     0x00000000000036e4     0x114d /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(subdf3.o)
+ .debug_loc     0x0000000000004831      0x181 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(fixdfsi.o)
+ .debug_loc     0x00000000000049b2      0x909 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(addsf3.o)
+ .debug_loc     0x00000000000052bb      0x74d /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divsf3.o)
+ .debug_loc     0x0000000000005a08      0x5e4 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(mulsf3.o)
+ .debug_loc     0x0000000000005fec      0x191 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(floatsisf.o)
+ .debug_loc     0x000000000000617d       0x6b /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clzsi2.o)
+
+.debug_aranges  0x0000000000000000      0x1b8
+ .debug_aranges
+                0x0000000000000000       0x20 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(adddf3.o)
+ .debug_aranges
+                0x0000000000000020       0x20 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divdf3.o)
+ .debug_aranges
+                0x0000000000000040       0x20 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(eqdf2.o)
+ .debug_aranges
+                0x0000000000000060       0x20 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(gedf2.o)
+ .debug_aranges
+                0x0000000000000080       0x20 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(ledf2.o)
+ .debug_aranges
+                0x00000000000000a0       0x20 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(muldf3.o)
+ .debug_aranges
+                0x00000000000000c0       0x20 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(subdf3.o)
+ .debug_aranges
+                0x00000000000000e0       0x20 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(fixdfsi.o)
+ .debug_aranges
+                0x0000000000000100       0x20 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(addsf3.o)
+ .debug_aranges
+                0x0000000000000120       0x20 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divsf3.o)
+ .debug_aranges
+                0x0000000000000140       0x20 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(mulsf3.o)
+ .debug_aranges
+                0x0000000000000160       0x20 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(floatsisf.o)
+ .debug_aranges
+                0x0000000000000180       0x20 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000000000001a0       0x18 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clz.o)
+
+.debug_ranges   0x0000000000000000      0xc50
+ .debug_ranges  0x0000000000000000      0x248 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(adddf3.o)
+ .debug_ranges  0x0000000000000248      0x198 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divdf3.o)
+ .debug_ranges  0x00000000000003e0       0x48 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(eqdf2.o)
+ .debug_ranges  0x0000000000000428       0x50 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(gedf2.o)
+ .debug_ranges  0x0000000000000478       0x50 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(ledf2.o)
+ .debug_ranges  0x00000000000004c8      0x1e0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(muldf3.o)
+ .debug_ranges  0x00000000000006a8      0x250 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(subdf3.o)
+ .debug_ranges  0x00000000000008f8       0x18 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(fixdfsi.o)
+ .debug_ranges  0x0000000000000910      0x168 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(addsf3.o)
+ .debug_ranges  0x0000000000000a78       0xc0 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divsf3.o)
+ .debug_ranges  0x0000000000000b38       0xa8 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(mulsf3.o)
+ .debug_ranges  0x0000000000000be0       0x50 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(floatsisf.o)
+ .debug_ranges  0x0000000000000c30       0x20 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clzsi2.o)
+
+.debug_line     0x0000000000000000     0x660f
+ .debug_line    0x0000000000000000     0x1013 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(adddf3.o)
+ .debug_line    0x0000000000001013      0xf6a /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divdf3.o)
+ .debug_line    0x0000000000001f7d      0x250 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(eqdf2.o)
+ .debug_line    0x00000000000021cd      0x2e5 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(gedf2.o)
+ .debug_line    0x00000000000024b2      0x2e5 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(ledf2.o)
+ .debug_line    0x0000000000002797      0xda5 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(muldf3.o)
+ .debug_line    0x000000000000353c     0x1078 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(subdf3.o)
+ .debug_line    0x00000000000045b4      0x214 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(fixdfsi.o)
+ .debug_line    0x00000000000047c8      0xa34 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(addsf3.o)
+ .debug_line    0x00000000000051fc      0x844 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divsf3.o)
+ .debug_line    0x0000000000005a40      0x755 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(mulsf3.o)
+ .debug_line    0x0000000000006195      0x33c /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(floatsisf.o)
+ .debug_line    0x00000000000064d1       0xe5 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clzsi2.o)
+ .debug_line    0x00000000000065b6       0x59 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clz.o)
+
+.debug_str      0x0000000000000000      0xa93
+ .debug_str     0x0000000000000000      0x300 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(adddf3.o)
+                                        0x33b (size before relaxing)
+ .debug_str     0x0000000000000300      0x1e4 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divdf3.o)
+                                        0x3fd (size before relaxing)
+ .debug_str     0x00000000000004e4       0x59 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(eqdf2.o)
+                                        0x24c (size before relaxing)
+ .debug_str     0x000000000000053d       0x5e /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(gedf2.o)
+                                        0x270 (size before relaxing)
+ .debug_str     0x000000000000059b       0x3a /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(ledf2.o)
+                                        0x270 (size before relaxing)
+ .debug_str     0x00000000000005d5      0x161 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(muldf3.o)
+                                        0x455 (size before relaxing)
+ .debug_str     0x0000000000000736       0x3c /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(subdf3.o)
+                                        0x33b (size before relaxing)
+ .debug_str     0x0000000000000772       0x59 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(fixdfsi.o)
+                                        0x249 (size before relaxing)
+ .debug_str     0x00000000000007cb       0x91 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(addsf3.o)
+                                        0x2fe (size before relaxing)
+ .debug_str     0x000000000000085c       0xdc /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divsf3.o)
+                                        0x368 (size before relaxing)
+ .debug_str     0x0000000000000938       0x6e /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(mulsf3.o)
+                                        0x323 (size before relaxing)
+ .debug_str     0x00000000000009a6       0x6f /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(floatsisf.o)
+                                        0x2c9 (size before relaxing)
+ .debug_str     0x0000000000000a15       0x7e /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clzsi2.o)
+                                        0x244 (size before relaxing)
+ .debug_str     0x0000000000000a93      0x227 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clz.o)
+
+.debug_frame    0x0000000000000000      0x2e0
+ .debug_frame   0x0000000000000000       0x44 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(adddf3.o)
+ .debug_frame   0x0000000000000044       0x58 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divdf3.o)
+ .debug_frame   0x000000000000009c       0x20 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(eqdf2.o)
+ .debug_frame   0x00000000000000bc       0x20 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(gedf2.o)
+ .debug_frame   0x00000000000000dc       0x20 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(ledf2.o)
+ .debug_frame   0x00000000000000fc       0x54 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(muldf3.o)
+ .debug_frame   0x0000000000000150       0x44 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(subdf3.o)
+ .debug_frame   0x0000000000000194       0x20 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(fixdfsi.o)
+ .debug_frame   0x00000000000001b4       0x40 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(addsf3.o)
+ .debug_frame   0x00000000000001f4       0x4c /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(divsf3.o)
+ .debug_frame   0x0000000000000240       0x48 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(mulsf3.o)
+ .debug_frame   0x0000000000000288       0x38 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(floatsisf.o)
+ .debug_frame   0x00000000000002c0       0x20 /home/rnayabed/code/cdac-vega/vega-tools/toolchain/bin/../lib/gcc/riscv64-vega-elf/10.1.0/rv32im/ilp32/libgcc.a(_clzsi2.o)

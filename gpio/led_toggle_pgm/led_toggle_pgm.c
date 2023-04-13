@@ -40,7 +40,7 @@
  * @param[in] No input parameter 
  * @param[Out] No output parameter 
 */
-void main ()
+void main2()
 {
 	US sw_status = 0;
 	UI i = 0;
@@ -50,17 +50,13 @@ void main ()
 		//Turn ON LEDs 5, 6, 7 at GPIO pins 16,17,18 respectively.
 		
 		
-		on_LED(PIN_31);
-		//on_LED(PIN_17);
-		//on_LED(PIN_18);
+		on_LED(PIN_25);
 		printf("\n\r LEDs ON");
 		for(i=0; i< 0x800000;i++); // Delay
 
 		//Turn OFF LEDs 5, 6, 7 at GPIO pins 16,17,18 respectively.
 
-		off_LED(PIN_31);
-		//off_LED(PIN_17);
-		//off_LED(PIN_18);
+		off_LED(PIN_25);
 		printf("\n\r LEDs OFF");
 
 		for(i=0; i< 0x800000;i++); // Delay

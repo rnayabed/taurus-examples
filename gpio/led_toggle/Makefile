@@ -6,7 +6,6 @@ ifndef TAURUS_SDK
 $(error TAURUS_SDK not set.)
 endif
 
-
 EXECUTABLE_NAME=led_toggle
 
 include $(TAURUS_SDK)/bsp/common/config.mk

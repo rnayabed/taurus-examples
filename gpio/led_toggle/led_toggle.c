@@ -8,16 +8,16 @@ void main()
 
 	printf("Blink GPIO 25");
 
-	GPIO_set_pin_mode(PIN_25, OUT);
+	//GPIO_set_pin_mode(PIN_21, OUT);
 	
 	while(1)
 	{
 		
-		GPIO_write_pin(PIN_25, HIGH);
+		GPIO_write_pin(GPIO_25, HIGH);
 		printf("\nLEDs ON");
 		for(i=0; i< 0x800000;i++); // Delay
 
-		GPIO_write_pin(PIN_25, LOW);
+		GPIO_write_pin(GPIO_25, LOW);
 		printf("\nLEDs OFF");
 
 		for(i=0; i< 0x800000;i++); // Delay

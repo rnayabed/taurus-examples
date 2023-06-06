@@ -2,11 +2,11 @@ cmake_minimum_required(VERSION 3.16)
 
 find_package(taurus 1.0 REQUIRED)
 
-project(led_toggle
+project(4x3_keypad_demo
     LANGUAGES C)
 
 add_executable(${PROJECT_NAME}
-    led_toggle.c)
+    4x3_keypad_demo.c)
 
 target_link_libraries(${PROJECT_NAME}
     PRIVATE taurus::taurus)

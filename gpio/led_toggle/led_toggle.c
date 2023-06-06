@@ -1,6 +1,5 @@
-#include "taurus/stdlib.h"
-//#include <include/config.h>
-#include "taurus/gpio.h"
+#include <taurus/stdlib.h>
+#include <taurus/gpio.h>
 
 void main()
 {

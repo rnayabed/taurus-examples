@@ -15,10 +15,10 @@
  See LICENSE for license details.
  ***************************************************/
 
-#include "stdlib.h"
-#include "config.h"
-#include "gpio.h"
-#include "uart.h"
+#include <taurus/stdlib.h>
+#include <taurus/config.h>
+#include <taurus/gpio.h>
+#include <taurus/uart.h>
 
 #define NO_CHAR '$'
 #define KEYPAD_START 3
